@@ -5,15 +5,519 @@
 ---
 
 > 📋 **QUICK NAVIGATION**
-> - **Part A**: Jainism (Sections 1–24)
-> - **Part B**: Buddhism (Sections 25–43)
-> - **Part C**: Combined Comparison & Summary (Section 44–46)
+> - **Part A**: Buddhism (Sections 1–19)
+> - **Part B**: Jainism (Sections 20–43)
+> - **Part C**: Combined Comparison & Summary (Sections 44–47)
 
 ---
 
-# PART A — JAINISM
+# PART A — BUDDHISM
 
-## 1. EARLY JAIN LITERATURE
+---
+
+## 1. 6TH CENTURY BCE BACKDROP — WHY NEW RELIGIONS EMERGED
+
+- 6th century BCE = age of global religious upheaval — **Confucius** (China), **Zoroaster** (Iran), **Parmenides** (Greece) all questioned established socio-religious norms
+- In India → produced two great **heterodox religions**: Buddhism and Jainism
+- Core teaching: true happiness lies NOT in material wealth or ritual, but in **non-violence, charity, frugality and good conduct**
+
+### Causes of Origin (High-Yield for Mains)
+
+| Cause | Explanation |
+|-------|-------------|
+| **(a) Kshatriya Reaction** | Post-Vedic society had 4 varnas; Kshatriyas ranked 2nd below Brahmanas and resented Brahmanical privileges (gifts, tax & punishment exemption). Both Buddha and Mahavira were Kshatriyas. Pali texts **reverse the rank order** placing Kshatriya above Brahmana |
+| **(b) New Agrarian Economy** | Economic centre shifted west→east (Haryana/W-UP → E-UP & Bihar) for more rainfall, fertile land and iron ore. Iron ploughshare farming needed bullocks, so Vedic **animal sacrifice (cattle slaughter) blocked progress**. Buddhism/Jainism preached non-violence → appealed to peasants |
+| **(c) Vaishya/Mercantile Patronage** | 6th c. BCE = **Second Urbanisation**; 60+ towns, thousands of silver/copper Punch-Marked Coins (PMC). Rising Vaishyas and merchants wanted higher status than Brahmanism gave them → funded non-Vedic faiths; non-violence also ended wars → boosted trade |
+| **(d) Appeal to the Laity** | Urbanisation bred inequality and social conflict; common folk wanted relief from violence, theft, hatred → welcomed simple, ascetic, peace-centred message |
+
+> 💡 **Memory tip — "KAVP"**: **K**shatriya reaction, **A**grarian economy, **V**aishya patronage, **P**eople's (laity) appeal
+
+> 🎯 **PYQ Alert (Practice Q — Mains):** Discuss the causes for the emergence of new religions in the sixth century BCE — use KAVP framework
+
+---
+
+## 2. EARLY BUDDHIST LITERATURE
+
+### Two Categories:
+- **(a) Canonical** — texts directly linked to the Buddha, laying down basic tenets (e.g. Tipitakas)
+- **(b) Non-Canonical / Semi-Canonical** — commentaries, treatises, histories, grammars
+
+### Non-Canonical Texts
+
+| Text | Note |
+|------|------|
+| **Milindapanho** | Pali; dialogue between Indo-Greek king **Milinda/Menander** and monk **Nagasena** |
+| **Nettipakarana** | "The Book of Guidance" — connected account of the Buddha's teachings |
+| **Visuddhimagga** | "The Path to Purity" by **Buddhaghosa**; discipline → nibbana |
+| **Nidanakatha** | First connected **life story** of the Buddha |
+| **Dipavamsa & Mahavamsa** | Pali; history + myth of Buddha, Buddhist councils, Ashoka, arrival in Sri Lanka |
+| **Mahavastu** | Mixed Sanskrit–Prakrit; sacred **biography (hagiography)** of the Buddha |
+
+> 🎯 **PYQ Alert (UPSC 1997):** Milindapanho is in the form of a dialogue between king Menander and Buddhist monk — **Answer: Nagasena** ✅
+
+### The Tipitaka (Pali) / Tripitaka (Sanskrit) = "Three Baskets"
+*(Named because teachings were written on long narrow leaves stored in baskets)*
+
+| Pitaka | Meaning | Contents |
+|--------|---------|---------|
+| **Sutta Pitaka** | Conventional teaching | Buddha's discourses (dialogue form) — called "Buddha Vacana" (word of the Buddha); has **5 Nikayas** |
+| **Vinaya Pitaka** | Disciplinary code | Rules for monks/nuns (Sangha); includes **Patimokka** (transgressions + atonements); plus some Jatakas |
+| **Abhidhamma Pitaka** | Moral psychology | Systematic study of Sutta teachings via summaries, Q&A, lists |
+
+> 💡 **Memory tip — "S-V-A"**: Sutta, Vinaya, Abhidhamma
+
+### The 5 Nikayas (of Sutta Pitaka):
+1. **Digha Nikaya** — long discourses
+2. **Majjhima Nikaya** — medium-length discourses
+3. **Samyutta Nikaya** — "kindred sayings"
+4. **Anguttara Nikaya** — discourses arranged by number
+5. **Khuddaka Nikaya** — smaller collection (15 books) including:
+   - **Jatakas** (Buddha's past births)
+   - **Dhammapada** (ethical verses)
+   - **Theragatha/Therigatha** (songs of elder monks/nuns)
+   - Niddesa, Buddhavamsa, Patisambhida
+
+> 📌 Book counts: Vinaya = 5 books, Sutta = 5 collections, Abhidhamma = 7 books
+
+### The 7 Books of Abhidhamma Pitaka:
+Dhamma-sangani, Vibhanga, Dhatu-katha, Puggala-pannatti, **Katha-vatthu**, Yamaka, Patthana
+> 📌 **Katha-vatthu** was added at the **Third Council** by **Moggaliputta Tissa**
+
+> 🎯 **PYQ Alert (UPSC 1996):** Therigatha is NOT part of Jaina literature — **TRUE** ✅ It is part of **Khuddaka Nikaya** of Buddhist Sutta Pitaka — songs of elder Buddhist **nuns**
+
+> 🎯 **PYQ Alert (UPSC 1998):** The concept of Eight-fold path forms the theme of — **Answer: Dharma-Chakra Pravartna Sutta** ✅
+
+---
+
+## 3. LIFE OF THE BUDDHA
+
+| Fact | Detail |
+|------|--------|
+| **Names** | Siddhartha → Buddha; also **Sakyamuni / Tathagata** |
+| **Born** | **563 BCE**, Vaishakha Poornima, at **Lumbini** (near Kapilavastu, Nepal) |
+| **Clan/Father** | Republican **Sakya clan**; father **Suddhodana** (chief of Kapilavastu, Kosala kingdom) |
+| **Mother** | **Mahamaya** (died 7 days after birth); raised by step-mother **Gautami** |
+| **Prophecy** | Brahmanas saw **32 marks of a Mahapurusha** → either world conqueror or world renouncer |
+| **Marriage** | At 16 to **Yashodhara**; son **Rahula** |
+| **Four Sights** | Old man, sick man, corpse, ascetic → triggered renunciation |
+| **Great Renunciation** | At **29** — left with charioteer **Channa** and horse **Kanthaka** (*Mahabhinishkramana*) |
+| **Teachers** | **Alara Kalama**, then **Uddaka Ramaputta** — unconvinced by both |
+| **5 Ascetic Companions** | Kondanna, Bhaddiya, Vappa, Mahanama, Assaji |
+| **Pre-enlightenment** | Milk-rice from village girl **Sujata**; kusa grass mat; sat under **Peepal tree** facing east; defeated **Mara** (Lord of Illusions) via earth-touching gesture |
+| **Enlightenment** | At **35**, at **Bodh Gaya/Uruvela** (Magadha, Bihar), on **Niranjana river** → the **Bodhi Tree** |
+| **First Sermon** | At **Sarnath** deer park, to his 5 companions = **Dhammachakka-Pavattana** ("turning the wheel of dharma"); they became Arhats |
+| **Death (Parinibbana)** | At **80**, at **Kusinara** (in the Mallas) |
+
+> 💡 **Memory tip — Ages**: Renounced at **29**, Enlightened at **35**, Died at **80**
+
+> 📌 **Bodhi Tree note**: Ashoka's queen **Tissarakkha** had it killed; later cut by **Pushyamitra Shunga** (2nd c. BCE) and **Shashanka** (600 CE) — each time replanted; still revered at Bodh Gaya
+
+> 🎯 **PYQ Alert (UPSC 2005):** Which was NOT a contemporary of the other three — Bimbisara, Gautam Buddha, **Milinda**, Prasenjit? — **Answer: Milinda** ✅ (Milinda/Menander was a Greek king of 2nd century BCE — much later)
+
+> 🎯 **PYQ Alert (UPSC 2015 & 2014):** Kingdoms associated with life of Buddha — **Answer: Avanti, Kosala and Magadha** ✅ (NOT Gandhara)
+
+### Buddha Represented in 5 Symbolic Forms (Early Art — No Idol Worship Initially)
+
+| Symbol | Event |
+|--------|-------|
+| **Lotus & Bull** | Birth |
+| **Horse** | Renunciation |
+| **Bodhi Tree** | Enlightenment (Mahabodhi) |
+| **Dhammachakra (wheel)** | First Sermon |
+| **Footprints** | Nirvana |
+
+---
+
+## 4. DOCTRINES OF BUDDHISM
+
+### The Three Jewels (Triratna)
+1. **Buddha** — Founder/Teacher
+2. **Dhamma** — Teachings
+3. **Sangha** — Order of monks/nuns (torch-bearers of Dhamma)
+
+> 💡 **Memory tip — "BDS"**: Buddha, Dhamma, Sangha
+
+### Four Noble Truths (Ariya-Sachchani)
+
+| # | Sanskrit/Pali | Meaning |
+|---|--------------|---------|
+| 1 | **Dukkha** | Life has suffering (*sabbam dukkham*) — actual + potential pain |
+| 2 | **Samudaya** | There is a cause — **desire (Trishna)** is the root of suffering |
+| 3 | **Nirodha** | Suffering can end — by attaining Nirvana |
+| 4 | **Astangika-Marga** | There is a **path** to end suffering (the Eightfold Path) |
+
+### The Eightfold Path (Astangika-Marga)
+*("Right" = proper/whole/complete, not opposite of "wrong"; about "unlearning")*
+
+1. **Right Vision** (*Samma-Ditthi*) — correct understanding of reality
+2. **Right Thought** (*Samma-Sankappa*) — love and compassion
+3. **Right Speech** (*Samma-Vaca*) — truthful, non-harmful
+4. **Right Action** (*Samma-Kammanta*) — ethical, non-exploitative (→ Five Precepts)
+5. **Right Livelihood** (*Samma-Ajiva*) — non-exploitative living
+6. **Right Effort** (*Samma-Vayama*) — directing energy to creative/healing action
+7. **Right Mindfulness** (*Samma-Sati*) — self-awareness
+8. **Right Concentration** (*Samma-Samadhi*) — meditation → Buddhahood
+
+> 🎯 **PYQ Alert (UPSC 1998):** Eight-fold path forms theme of — **Answer: Dharma-Chakra Pravartna Sutta** ✅
+
+### The Five Precepts (under Right Action — for monks AND laity)
+1. Do not commit violence (no killing of any being)
+2. Do not covet property of others
+3. Avoid sensual misconduct (laity: chastity)
+4. Do not lie (no slander/deceit)
+5. Do not use intoxicants
+
+> 📌 **Three extra precepts for monks/nuns**: no eating after midday; no dancing/music/perfumes/ornaments; no luxurious beds or handling gold/silver (money)
+
+---
+
+## 5. NIRVANA / NIBBANA
+
+- **Etymology**: Pali *Nibbana* = "Ni" (not) + "Vana" (craving) → **extinction of desire/craving**
+- NOT physical death — the dying out of desire, attachment, greed, ignorance, hatred and ego
+- **Mahaparinirvana** = nirvana attained on death
+- Buddhism accepts transmigration and impermanence, but **rejects God and soul (atman)**
+- The soul is a "myth" in Buddhism
+
+> 🎯 **PYQ Alert (UPSC 2013):** Which best describes Nirvana in Buddhism? — **Answer: The extinction of the flame of desire** ✅ (NOT annihilation of self, NOT a state of bliss, NOT beyond comprehension)
+
+---
+
+## 6. CORE PHILOSOPHICAL DOCTRINES
+
+### A. Pratityasamutpada (Dependent Origination)
+- Central Buddhist law of causation: **"this being, that arises"**
+- Nothing exists independently; all things arise from causes and conditions
+- Expressed as **chain of 12 links (Nidanas)**:
+
+| # | Nidana | Meaning |
+|---|--------|---------|
+| 1 | **Avidya** | Ignorance |
+| 2 | **Samskara** | Karmic formations |
+| 3 | **Vijnana** | Consciousness |
+| 4 | **Namarupa** | Name and form |
+| 5 | **Shadayatana** | Six sense bases |
+| 6 | **Sparsha** | Contact |
+| 7 | **Vedana** | Feeling |
+| 8 | **Trishna** | Craving |
+| 9 | **Upadana** | Clinging |
+| 10 | **Bhava** | Becoming |
+| 11 | **Jati** | Birth |
+| 12 | **Jaramarana** | Old age and death |
+
+> 💡 Breaking this chain (removing ignorance) ends the cycle of rebirth → Nirvana
+
+### B. Three Marks of Existence (Trilakshana / Tilakkhana)
+1. **Anicca** — impermanence (everything is transient)
+2. **Dukkha** — suffering/unsatisfactoriness
+3. **Anatta (Anatman)** — no permanent self/soul
+
+> 💡 **Memory tip — "A-D-A"**: Anicca, Dukkha, Anatta
+
+### C. Kshanikavada
+- Doctrine of **momentariness** — everything exists only for a moment, in constant flux
+
+### D. Anatmavada / Nairatmyavada
+- **Denial of a permanent soul** — key point separating Buddhism from Upanishads
+- Rebirth happens via a **stream of causation (Santana)**, not a transmigrating soul
+
+### E. Karma in Buddhism
+- **Intention (Cetana)** is what makes karma — *"It is intention that I call karma"* — said Buddha
+- Unlike Jainism where even **unintentional** harm creates karma
+- Karma = mental/intentional force (NOT physical particles as in Jainism)
+
+---
+
+## 7. BUDDHIST ICONOGRAPHY — MUDRAS
+
+| Mudra | Gesture | Associated With |
+|-------|---------|----------------|
+| **Dhyana** | Both hands in lap | Meditation |
+| **Bhumisparsha** | Right hand touching the earth | Enlightenment (calling earth to witness) |
+| **Dharmachakra** | Both hands at chest, "wheel-turning" | First Sermon (Sarnath) |
+| **Abhaya** | Right palm raised outward | Protection/fearlessness |
+| **Varada** | Right palm down, facing out | Charity/boon-giving |
+| **Vitarka** | Thumb and forefinger joined | Teaching/discussion |
+
+> 🎯 **PYQ Alert (UPSC 2012):** Bhumisparsha Mudra symbolises — **Answer: Buddha's calling of the Earth to witness his purity and chastity despite temptations of Mara** ✅
+
+---
+
+## 8. EIGHT GREAT HOLY PLACES (Ashtamahasthanas)
+
+| Place | Event |
+|-------|-------|
+| **Lumbini** | Birth |
+| **Bodh Gaya** | Enlightenment |
+| **Sarnath** | First Sermon |
+| **Kushinagar** | Mahaparinirvana (death) |
+| **Sravasti** | The "Twin Miracle" |
+| **Sankassa (Sankissa)** | Descent from heaven (Tushita) |
+| **Rajgir (Rajgriha)** | Subduing the elephant Nalagiri |
+| **Vaishali** | Monkey's offering of honey/announcement of coming death |
+
+> 💡 **Memory tip — "L-B-S-K"**: Lumbini (born), Bodh Gaya (enlightened), Sarnath (taught), Kushinagar (died) — the **4 most important**
+
+---
+
+## 9. BUDDHIST COSMOLOGY — TEN REALMS OF BEING
+
+**Higher Realms:**
+1. **Buddha** — Fully enlightened; attained Nirvana; guides others
+2. **Bodhisattva** — Seeks enlightenment but delays to help all beings
+3. **Pratyeka Buddha** — Self-enlightened but does NOT teach others
+4. **Sravaka** — Disciple who attains enlightenment by following Buddha's teachings
+
+**Middle Realms:**
+5. **Heavenly beings (Devas)** — Live in pleasure due to good karma but NOT liberated
+6. **Humans** — Experience both joy and suffering; **best state for attaining Nirvana**
+7. **Asura** — Powerful but jealous beings driven by ego and conflict
+
+**Lower Realms:**
+8. **Beasts (Animals)** — Live in ignorance and instinct
+9. **Preta (Hungry ghosts)** — Tormented by endless desire
+10. **Hell beings** — Undergo intense suffering due to negative karma
+
+> 📌 Man sits at midpoint — can sink to hell or rise to Buddhahood
+> 📌 Non-violence (Ahimsa) stressed, but **vegetarianism is NOT required** — monks could eat meat
+
+---
+
+## 10. BUDDHISM AND WOMEN
+
+- Initially Buddha was **reluctant** to admit women, fearing they'd corrupt the Sangha
+- Relented after **Ananda** interceded for **Maha Prajapati Gautami** (his step-mother) — first woman ordained
+- Admission conditional on **eight rules** subordinating nuns to monks:
+  - A nun, however senior, **salutes any monk**
+  - Nuns can't admonish monks (but monks can admonish nuns)
+  - Confession at joint meetings; two-year probation
+- Famous Bhikkhunis: **Dhammadinna, Sumangala, Mathika, Vasanti, Sumedha, Khema, Utpalavarna**
+- Former courtesans gained respect: **Amrapali** (Vaishali), **Padmavati** (Ujjain), **Arthakasi** (Kasi)
+
+> 📌 Buddha reportedly said admitting women would shorten the faith from **1000 → 500 years**
+
+> 🎯 **PYQ Alert (Practice Q):** Women were NOT admitted in Buddhist Sanghas — **FALSE** ❌ Women WERE admitted as bhikkhunis
+
+---
+
+## 11. BUDDHISM VS BRAHMANISM
+
+- Buddhism judged **varna by action, not birth**
+- In Anguttara Nikaya, one who joins the Sangha becomes **"vevanniyanti"** (without varna)
+- Sangha drew from ALL castes:
+  - **Upali** (barber), **Chunda** (blacksmith)
+  - Brahmana monks: Mahakassapa, Sariputta, Mahamoggallana
+  - Kshatriya monks: the Buddha himself, Ananda, Aniruddha
+- **Mahakassapa** (a Brahmana) presided over the **First Council**
+- But Buddhism did NOT abolish class — barred **debtors, slaves, soldiers** (without leave)
+
+---
+
+## 12. SPREAD AND POPULARITY OF BUDDHISM
+
+### Why it Spread:
+- More **liberal and democratic** — attacked varna, admitted all castes and women
+- **Buddha's personality** + reasoned doctrine (wit, calm, logic)
+- Teachings in **Pali** (people's language), NOT Sanskrit
+- **Royal patronage** — Magadha, Kosala, Kaushambi, Gana-Sanghas
+- Practical solutions to social/economic ills of new urban economy
+
+### Ashoka's Missionaries (High-Yield MCQ)
+
+| Missionary | Destination |
+|-----------|------------|
+| **Mahendra + Sanghamitra** (son + daughter) | Sri Lanka |
+| **Sona + Uttara** | Suvarnabhumi (Myanmar/Thailand) |
+| **Mahadev** | Mysore |
+| **Dharamarakshit** | Himalayas |
+| **Maharakshit** | Land of the Greeks |
+
+### Spread to China:
+- **1st c. CE** — Dharamrakshit and Kashyap Matanga went to China; translated Buddhist texts
+- **Kumarajiva** went to China in **401 CE** (became head of Buddhist scholars there)
+- Chinese pilgrims: **Fa-Hien** and **Huen Tsang** visited India and carried texts back
+
+---
+
+## 13. DECLINE OF BUDDHISM (from early 12th century CE)
+
+| Cause | Explanation |
+|-------|-------------|
+| **(a) Internal degeneration** | Succumbed to rituals and dogma it once denounced; monks abandoned Pali for Sanskrit |
+| **(b) Corruption** | From 1st c. CE, took up large-scale idol worship + donations → corruption of ascetic life; Mahayana even made Buddha a god |
+| **(c) Persecution** | **Pushyamitra Shunga**, Huna king **Mihirakula**, **Shashanka** of Gauda; Turkish invaders sacked rich monasteries → loss of royal patronage |
+| **(d) Revival of Brahmanism** | Vaishnavism (Bhakti, direct God-devotee link, patronised by Guptas) drew masses away |
+
+> 💡 **Memory tip — Persecutors "P-M-S"**: Pushyamitra Shunga, Mihirakula (Huna), Shashanka
+
+---
+
+## 14. BUDDHIST COUNCILS
+
+| Council | Year | Place | Ruler | President | Outcome |
+|---------|------|-------|-------|-----------|---------|
+| **1st** | 483 BCE | **Rajgriha** (Saptaparni cave) | Ajatashatru | **Mahakassapa** | Teachings split into 3 baskets; Upali recited Vinaya, Ananda recited Sutta |
+| **2nd** | 383 BCE | **Vaishali** | Kalasoka | **Sabbakami** | Dispute over monastic practice → split into **Sthaviravadins vs Mahasanghikas** → later Theravada vs Mahayana |
+| **3rd** | 250 BCE | **Pataliputra** (Ashokarama monastery) | Ashoka | **Moggaliputta Tissa** | Purged factions; origin of Theravada; Tripitaka coded in Pali; **Kathavatthu** compiled; missionaries sent abroad |
+| **4th** | 1st c. CE | **Kundalavana, Kashmir** | Kanishka | **Vasumitra** | Split into **Mahayana vs Hinayana**; **Mahavibhasha** compiled; proceedings in Sanskrit; **Asvaghosha** was vice-president |
+
+> 💡 **Memory tip — Rulers "A-K-A-K"**: Ajatashatru, Kalasoka, Ashoka, Kanishka (1st → 4th)
+> 💡 **Memory tip — Venue "R-V-P-K"**: Rajgriha, Vaishali, Pataliputra, Kashmir
+
+> 🎯 **PYQ Alert (Practice Q):** 1st Buddhist council held during reign of Ashoka — **FALSE** ❌ It was held during **Ajatashatru's** reign
+
+> 🎯 **PYQ Alert (UPSC 2001):** Which presided over Buddhist council during Kanishka's reign at Kashmir? — **Answer: Vasumitra** ✅
+
+> 📌 Note: Theravada also held a **separate 4th council** in 1st c. BCE at **Aloka Lena, Sri Lanka** under **Vattagamani**
+
+---
+
+## 15. THREE SCHOOLS OF BUDDHISM
+
+| Feature | Hinayana (Theravada) | Mahayana | Vajrayana |
+|---------|---------------------|----------|-----------|
+| **Meaning** | "Lesser Path"; Theravada = "Doctrine of the Elders" | "Greater Path" | "Vehicle of the Thunderbolt"; also Mantrayana/Tantrayana |
+| **Nature** | Orthodox; truer to Buddha; **original school** | Heterodox; later development | Esoteric extension; appeared E-India 8th c. CE |
+| **Language** | Pali | Sanskrit | Sanskrit + symbolic "Twilight Language" (*samdhya-bhasa*) |
+| **View of Buddha** | Buddha = **human**; no idol worship | Buddha = **god**; idol worship | Quick path via magical power (Vajra) |
+| **Goal** | Individual salvation; aim = **Nirvana** | Universal liberation; aim = spiritual upliftment | Mantras, mandalas, central guru/lama |
+| **Ideal** | **Arhat** (individual liberation) | **Bodhisattva** (universal liberation) | — |
+| **Today** | Sri Lanka, Myanmar, Thailand, SE Asia | Japan, China, E-Asia | Tibet, Nepal, Bhutan, Mongolia |
+| **Royal Patron** | **Ashoka** | **Kanishka**, later Harsha | — |
+
+> 🎯 **PYQ Alert (UPSC 2016):** Bodhisattva concept is central to Hinayana — **FALSE** ❌ Central to **Mahayana**. Bodhisattva delays nirvana to help all beings ✅
+
+> 🎯 **PYQ Alert (UPSC 2020):** Sthaviravadins belong to Mahayana Buddhism — **FALSE** ❌ They belong to **Hinayana** Buddhism ✅
+
+> 🎯 **PYQ Alert (Practice Q):** Mahayana Buddhism believes in idol worship while Hinayana does not — **TRUE** ✅
+
+### Mahayana Schools:
+
+| School | Founder | Doctrine |
+|--------|---------|---------|
+| **Madhyamika / Sunyavada** | **Nagarjuna** | Doctrine of **Sunyata** (emptiness): reality is void of independent existence |
+| **Yogachara / Vijnanavada** | **Asanga & Vasubandhu** | "Consciousness-only"/idealism: only mind/consciousness (vijnana) is ultimately real |
+
+### Trikaya Doctrine (Three Bodies of the Buddha):
+1. **Dharmakaya** — the body of truth/essence (ultimate reality)
+2. **Sambhogakaya** — the body of bliss/enjoyment (celestial form)
+3. **Nirmanakaya** — the body of manifestation (the historical Buddha)
+
+> 💡 **Memory tip — "D-S-N"**: Dharmakaya, Sambhogakaya, Nirmanakaya
+
+---
+
+## 16. IMPORTANT BUDDHIST WRITERS
+
+| Writer | Note |
+|--------|------|
+| **Asvaghosha** | Wrote **Buddhacharita** (Sanskrit); contemporary of Kanishka; poet/dramatist/musician |
+| **Nagarjuna** | Founder of **Madhyamaka** school (Mahayana); friend of Satavahana king Gautamiputra |
+| **Asanga & Vasubandhu** | Brothers, 4th c. CE Punjab; Asanga → **Yogachara/Vijnanavada** school; Vasubandhu wrote **Abhidharmakosa** (encyclopedia of Buddhism) |
+| **Buddhaghosa** | 5th c. Pali scholar; wrote **Visuddhimagga** ("Path of Purification") |
+| **Dinnaga** | Founder of **Buddhist logic** (5th c.) |
+| **Dharmakirti** | 7th c. Buddhist logician and dialectician |
+
+> 🎯 **PYQ Alert (UPSC 2022):** Aryadeva was a Jaina scholar — **FALSE** ❌ Aryadeva was a **Buddhist** scholar (disciple of Nagarjuna)
+
+---
+
+## 17. EIGHT GREAT BODHISATTVAS
+
+| Bodhisattva | Role | Identifying Mark |
+|------------|------|-----------------|
+| **Manjushri** | Wisdom and insight | Flaming sword (cuts ignorance) + Prajnaparamita sutra; on a lion |
+| **Avalokiteshvara** (Padmapani/Lokesvara) | Infinite compassion; manifestation of Amitabha | White, holds a lotus |
+| **Vajrapani** | Power and forceful energy | Blue, holds a Vajra; fierce, fire-wreathed |
+| **Maitreya** | **The Future Buddha** — will restore the Dhamma | Orange/yellow, seated waiting; khata scarf |
+| **Kshitigarbha** | Saves souls (incl. children, those in hell) | Monk's robes; staff + cintamani jewel |
+| **Akashagarbha** | Purifies transgressions | Blue/green skin; carries a sword |
+| **Samantabhadra** | "Universal Worthy" — fundamental goodness | Rides a **six-tusked elephant** (6 tusks = 6 Paramitas) |
+| **Sarvanivarana-Vishkambhin** | Purifies wrong doings on the path | Deep blue, holds a wheel of jewels |
+
+> 📌 **Three Family Protectors** (Buddha's trinity): **Manjushri** (wisdom) + **Avalokiteshvara** (compassion) + **Vajrapani** (power)
+
+> 🎯 **PYQ Alert (UPSC 2018):** Who among the following is future Buddha? — **Answer: Maitreya** ✅
+
+---
+
+## 18. STUPAS AND ARCHITECTURE
+
+### What is a Stupa?
+- Hemispherical burial mounds holding relics/ashes; pilgrimage and meditation sites
+- Common since Vedic times but raised to cult worship under **Ashoka**
+- **9 original stupas** after Buddha's death (8 over relics + 1 over relic-vessel)
+
+### Parts of a Stupa (top to bottom):
+**Chhatra** (umbrella) → **Harmika** (square railing) → **Anda** (hemispherical mound) → **Medhi** (cylindrical drum) → **Torana** (entrance gate)
+
+> 💡 **Memory tip — "CHAD"**: Chhatra, Harmika, Anda, Drum
+
+> 🎯 **PYQ Alert (UPSC 2013):** Chaitya vs Vihara — **Chaitya = place of worship** (prayer hall with stupa inside); **Vihara = dwelling place of monks** (monastery) ✅
+
+### Types of Stupas:
+
+| Type | Purpose |
+|------|---------|
+| **Relic Stupa** | Holds relics/remains of Buddha or disciples |
+| **Object Stupa** | Holds objects (begging bowl, robe) or scriptures |
+| **Commemorative Stupa** | Marks events in lives of Buddha or disciples |
+| **Symbolic Stupa** | Symbolises Buddhist theology (e.g. Borobudur) |
+| **Votive Stupa** | From 7th c. CE; small terracotta miniatures as offerings |
+
+### Important Stupas:
+
+| Stupa | Key Points |
+|-------|-----------|
+| **Sanchi (MP)** | Built 3rd c. BCE by Ashoka; 4 gateways (southern first); UNESCO site since 1989 |
+| **Dhamek, Sarnath (UP)** | Commissioned by Ashoka, 249 BCE at Rishipattana — site of first sermon; rebuilt 500 CE |
+| **Amaravati (AP)** | Built in phases, 3rd c. BCE – ~250 CE; also called **Dhanyakataka**; now damaged |
+| **Bharhut (MP)** | Erected by Ashoka, later adopted by Shungas; reliefs donated by lay people, monks and nuns |
+| **Piprahwa (UP)** | Massive stupa + monasteries; site of Buddha's ashes handed to the Sakya clan |
+| **Nagarjunakonda (AP)** | Major site west of Amaravati; Mahayana Buddhist + Hindu remains |
+| **Sonari (MP)** | Sanchi-like complex — 2 major + 5 minor stupas |
+
+> 🎯 **PYQ Alert (UPSC 2023):** Dhanyakataka which flourished as prominent Buddhist centre under Mahasanghikas, located in — **Answer: Andhra** ✅ (modern Amaravati, AP)
+
+> 📌 **Cave Architecture:** Buddhist rock-cut caves — **Chaitya** (prayer/worship hall, with stupa inside) and **Vihara** (residential monastery)
+> Famous sites: **Karle** (largest chaitya hall), Bhaja, Bedsa, Nasik, Kanheri, Junnar, **Ajanta** (also famous for murals/paintings), **Ellora**, **Bagh caves** (MP)
+
+> 🎯 **PYQ Alert (UPSC 2017):** Painting of Bodhisattva Padmapani is one of the most famous paintings at — **Answer: Ajanta** ✅
+
+---
+
+## 19. KEY TERMS GLOSSARY — BUDDHISM
+
+| Term | Meaning | Easy Explanation |
+|------|---------|-----------------|
+| **Chaityas** | Prayer halls | Hall of worship with stupa at far end; NOT monks' residence |
+| **Viharas** | Monasteries | Residential quarters for monks; NOT worship halls |
+| **Pravrajya** | "Going forth" | Becoming a novice — head shaved, ochre robes given |
+| **Upasampada** | Ordination ceremony | Novice → full member of monastic community |
+| **Uposatha** | Holy ceremony | Held on full moon and new moon days |
+| **Parajika** | "Defeat" | 4 gravest offences → expulsion from Sangha (sex, theft, killing, false claim of spiritual attainment) |
+| **Pavarana** | End of rainy season ceremony | Held on Aashvin full moon; each monk atones for offences committed in rainy season |
+| **Upasakas/Upasikas** | Lay male/female followers | Take refuge in Buddha-Dhamma-Sangha; no monastic vows |
+| **Bodhisattva** | Enlightened being | Delays own salvation to help all others attain liberation |
+| **Bhikkhu/Bhikkhuni** | Monk/Nun | Members of the Buddhist Sangha |
+| **Theragatha/Therigatha** | Songs of elder monks/nuns | Part of Khuddaka Nikaya; Therigatha = nuns' songs (Buddhist, NOT Jaina) |
+| **Shramana (Samana)** | One who strives | One who strives to realise truth; non-Vedic ascetics |
+| **Paribbajaka (Parivrajaka)** | Wanderer | Wandering ascetics |
+| **Pradakshina** | Circumambulation | Ritual walking around a Stupa clockwise |
+| **Torana** | Entrance gate | Gateway of a Stupa |
+| **Vassa** | Rainy season retreat | Period when monks stay in one place during monsoon |
+| **Sarvastivadin** | Theravada school | "Everything exists in all three phases of time" |
+| **Sautrantika** | Buddhist school | Accepts only Sutta + Vinaya Pitakas as valid |
+| **Sammitiya** | Buddhist school | An early Buddhist school |
+| **Patimokka** | Monastic code | 227 rules for monks; recited fortnightly at Uposatha |
+| **Sunyata** | Emptiness | Central concept of Madhyamika/Mahayana — reality is void of independent existence |
+| **Anatman/Anatta** | No-soul | Buddhism's rejection of permanent self — distinguishes it from Hinduism |
+
+---
+
+# PART B — JAINISM
+
+## 20. EARLY JAIN LITERATURE
 
 ### Preservation of Teachings
 - Initially preserved as **oral tradition** — monks strictly followed the **five great vows** of Jainism
@@ -31,7 +535,7 @@
 
 ---
 
-## 2. MAJOR JAIN TEXTS
+## 21. MAJOR JAIN TEXTS
 
 ### Canonical Works (Shvetambara Canon)
 
@@ -69,7 +573,7 @@
 
 ---
 
-## 3. GANADHARAS AND SRUT-KEVLIS
+## 22. GANADHARAS AND SRUT-KEVLIS
 - **Ganadharas** = immediate disciples of Lord Mahavira (mendicants, possessed perfect knowledge — *keval-gyan*)
 - They orally compiled Mahavira's direct preachings into **12 main texts (sutras)** = Angas
 - **Srut-kevlis** = monks with knowledge of minimum 10 Purvas ("previous texts" — original teachings of Jinas)
@@ -99,7 +603,7 @@
 
 ---
 
-## 4. LIFE OF VARDHAMANA MAHAVIRA
+## 23. LIFE OF VARDHAMANA MAHAVIRA
 
 ### Identity & Titles
 - **24th and last Tirthankara / Jina** (meaning: victor, one who has attained infinite knowledge)
@@ -138,7 +642,7 @@
 
 ---
 
-## 5. JAINA SECTS — ORIGIN
+## 24. JAINA SECTS — ORIGIN
 
 - Around **3rd century BCE**, Jainism split into two major sects:
   - **Digambara** = Sky-clad (naked)
@@ -148,7 +652,7 @@
 
 ---
 
-## 6. DOCTRINES OF JAINISM
+## 25. DOCTRINES OF JAINISM
 
 ### Concept of Time
 - Jaina conception of time: divided into endless sequence of:
@@ -186,7 +690,7 @@
 
 ---
 
-## 7. DETAILED DOCTRINES
+## 26. DETAILED DOCTRINES
 
 ### A. ANEKANTAVADA
 - Literally: "non-one-sidedness" / "manifoldness" / **non-absolutism**
@@ -228,7 +732,7 @@
 
 ---
 
-## 8. KARMA AND SALVATION
+## 27. KARMA AND SALVATION
 
 - Bad deeds of a person **get attached to the soul**
 - **Bondage of Karma** = responsible for cycle of life and death
@@ -247,7 +751,7 @@
 
 ---
 
-## 9. PANCHA MAHAVRATA — Five Great Vows
+## 28. PANCHA MAHAVRATA — Five Great Vows
 
 ### i. Non-Violence (AHIMSA) — Cardinal Principle
 - **"Ahimsa parmo dharma"** = Non-violence is the supreme religion
@@ -341,7 +845,7 @@
 
 ---
 
-## 10. MAHAVRATAS vs ANUVRATAS
+## 29. MAHAVRATAS vs ANUVRATAS
 
 | Type | Observers | Description |
 |------|-----------|-------------|
@@ -354,7 +858,7 @@
 
 ---
 
-## 11. BUDDHISM AND JAINISM — SIMILARITIES AND DIFFERENCES
+## 30. BUDDHISM AND JAINISM — SIMILARITIES AND DIFFERENCES
 
 ### Similarities
 - Both **rejected the authority of Vedas**
@@ -385,7 +889,7 @@
 
 ---
 
-## 12. SPREAD AND INFLUENCE OF JAINISM
+## 31. SPREAD AND INFLUENCE OF JAINISM
 
 ### Geographic Spread
 - Gradually spread to **western India** where Brahmanical religion was weak
@@ -413,7 +917,7 @@
 
 ---
 
-## 13. DIFFERENT SCHOOLS OF JAINISM
+## 32. DIFFERENT SCHOOLS OF JAINISM
 
 ### Major Sects: Digambara vs Shvetambara
 
@@ -437,7 +941,7 @@
 
 ---
 
-## 14. DIGAMBARA SUB-SECTS
+## 33. DIGAMBARA SUB-SECTS
 
 ### Major Sub-Sects
 
@@ -469,7 +973,7 @@
 
 ---
 
-## 15. SHVETAMBARA SUB-SECTS
+## 34. SHVETAMBARA SUB-SECTS
 
 | Sub-Sect | Key Feature | Region |
 |----------|-------------|--------|
@@ -483,7 +987,7 @@
 
 ---
 
-## 16. JAINA COUNCILS
+## 35. JAINA COUNCILS
 
 | Council | Year | Place | Achievement | President |
 |---------|------|-------|-------------|-----------|
@@ -494,7 +998,7 @@
 
 ---
 
-## 17. KEY TERMS / GLOSSARY
+## 36. KEY TERMS / GLOSSARY
 
 | Key Term | Meaning | Etymology / Easy Explanation |
 |----------|---------|------------------------------|
@@ -523,7 +1027,7 @@
 
 ---
 
-## 18. AJIVIKAS — Related Heterodox Sect
+## 37. AJIVIKAS — Related Heterodox Sect
 
 ### Overview
 - Buddhism and Jainism were NOT the only religions challenging Brahmanical dominance
@@ -553,7 +1057,7 @@
 
 ---
 
-## 19. ADDITIONAL EXAM-RELEVANT POINTS (From General Knowledge)
+## 38. ADDITIONAL EXAM-RELEVANT POINTS (From General Knowledge)
 
 ### Jainism's Contribution to Indian Culture
 - Jainism contributed significantly to **Kannada, Tamil, and Hindi literature**
@@ -579,7 +1083,7 @@
 
 ---
 
-## 21. PREVIOUS YEAR QUESTIONS (UPSC PRELIMS) — WITH ANSWERS AND EXPLANATIONS
+## 39. PREVIOUS YEAR QUESTIONS (UPSC PRELIMS) — WITH ANSWERS AND EXPLANATIONS
 
 > 📌 These questions are directly from UPSC Prelims (2000–2023). Extremely useful for APPSC Group-I as patterns are similar.
 
@@ -945,7 +1449,7 @@ iv. Non-injury to animal life.
 
 ---
 
-## 22. PRACTICE QUESTIONS — PRELIMS (With Answers)
+## 40. PRACTICE QUESTIONS — PRELIMS (With Answers)
 
 **Q1.** Match the following:
 - (A) Eight fold path → iii. Buddhism
@@ -999,7 +1503,7 @@ iii. The Shvetambaras are naked while Digambaras are white clad.
 
 ---
 
-## 23. PRACTICE QUESTIONS — MAINS
+## 41. PRACTICE QUESTIONS — MAINS
 
 **Q1.** Identify the points of both similarity and dissimilarity between Buddhism and Brahmanism.
 
@@ -1009,7 +1513,7 @@ iii. The Shvetambaras are naked while Digambaras are white clad.
 
 ---
 
-## 24. PROBABLE QUESTIONS FOR APPSC GROUP-I
+## 42. PROBABLE QUESTIONS FOR APPSC GROUP-I
 *(Based on PYQ patterns and topics covered)*
 
 ### PRELIMS — High Probability Topics:
@@ -1067,515 +1571,11 @@ iii. The Shvetambaras are naked while Digambaras are white clad.
 
 ---
 
-# PART B — BUDDHISM
-
----
-
-## 25. 6TH CENTURY BCE BACKDROP — WHY NEW RELIGIONS EMERGED
-
-- 6th century BCE = age of global religious upheaval — **Confucius** (China), **Zoroaster** (Iran), **Parmenides** (Greece) all questioned established socio-religious norms
-- In India → produced two great **heterodox religions**: Buddhism and Jainism
-- Core teaching: true happiness lies NOT in material wealth or ritual, but in **non-violence, charity, frugality and good conduct**
-
-### Causes of Origin (High-Yield for Mains)
-
-| Cause | Explanation |
-|-------|-------------|
-| **(a) Kshatriya Reaction** | Post-Vedic society had 4 varnas; Kshatriyas ranked 2nd below Brahmanas and resented Brahmanical privileges (gifts, tax & punishment exemption). Both Buddha and Mahavira were Kshatriyas. Pali texts **reverse the rank order** placing Kshatriya above Brahmana |
-| **(b) New Agrarian Economy** | Economic centre shifted west→east (Haryana/W-UP → E-UP & Bihar) for more rainfall, fertile land and iron ore. Iron ploughshare farming needed bullocks, so Vedic **animal sacrifice (cattle slaughter) blocked progress**. Buddhism/Jainism preached non-violence → appealed to peasants |
-| **(c) Vaishya/Mercantile Patronage** | 6th c. BCE = **Second Urbanisation**; 60+ towns, thousands of silver/copper Punch-Marked Coins (PMC). Rising Vaishyas and merchants wanted higher status than Brahmanism gave them → funded non-Vedic faiths; non-violence also ended wars → boosted trade |
-| **(d) Appeal to the Laity** | Urbanisation bred inequality and social conflict; common folk wanted relief from violence, theft, hatred → welcomed simple, ascetic, peace-centred message |
-
-> 💡 **Memory tip — "KAVP"**: **K**shatriya reaction, **A**grarian economy, **V**aishya patronage, **P**eople's (laity) appeal
-
-> 🎯 **PYQ Alert (Practice Q — Mains):** Discuss the causes for the emergence of new religions in the sixth century BCE — use KAVP framework
-
----
-
-## 26. EARLY BUDDHIST LITERATURE
-
-### Two Categories:
-- **(a) Canonical** — texts directly linked to the Buddha, laying down basic tenets (e.g. Tipitakas)
-- **(b) Non-Canonical / Semi-Canonical** — commentaries, treatises, histories, grammars
-
-### Non-Canonical Texts
-
-| Text | Note |
-|------|------|
-| **Milindapanho** | Pali; dialogue between Indo-Greek king **Milinda/Menander** and monk **Nagasena** |
-| **Nettipakarana** | "The Book of Guidance" — connected account of the Buddha's teachings |
-| **Visuddhimagga** | "The Path to Purity" by **Buddhaghosa**; discipline → nibbana |
-| **Nidanakatha** | First connected **life story** of the Buddha |
-| **Dipavamsa & Mahavamsa** | Pali; history + myth of Buddha, Buddhist councils, Ashoka, arrival in Sri Lanka |
-| **Mahavastu** | Mixed Sanskrit–Prakrit; sacred **biography (hagiography)** of the Buddha |
-
-> 🎯 **PYQ Alert (UPSC 1997):** Milindapanho is in the form of a dialogue between king Menander and Buddhist monk — **Answer: Nagasena** ✅
-
-### The Tipitaka (Pali) / Tripitaka (Sanskrit) = "Three Baskets"
-*(Named because teachings were written on long narrow leaves stored in baskets)*
-
-| Pitaka | Meaning | Contents |
-|--------|---------|---------|
-| **Sutta Pitaka** | Conventional teaching | Buddha's discourses (dialogue form) — called "Buddha Vacana" (word of the Buddha); has **5 Nikayas** |
-| **Vinaya Pitaka** | Disciplinary code | Rules for monks/nuns (Sangha); includes **Patimokka** (transgressions + atonements); plus some Jatakas |
-| **Abhidhamma Pitaka** | Moral psychology | Systematic study of Sutta teachings via summaries, Q&A, lists |
-
-> 💡 **Memory tip — "S-V-A"**: Sutta, Vinaya, Abhidhamma
-
-### The 5 Nikayas (of Sutta Pitaka):
-1. **Digha Nikaya** — long discourses
-2. **Majjhima Nikaya** — medium-length discourses
-3. **Samyutta Nikaya** — "kindred sayings"
-4. **Anguttara Nikaya** — discourses arranged by number
-5. **Khuddaka Nikaya** — smaller collection (15 books) including:
-   - **Jatakas** (Buddha's past births)
-   - **Dhammapada** (ethical verses)
-   - **Theragatha/Therigatha** (songs of elder monks/nuns)
-   - Niddesa, Buddhavamsa, Patisambhida
-
-> 📌 Book counts: Vinaya = 5 books, Sutta = 5 collections, Abhidhamma = 7 books
-
-### The 7 Books of Abhidhamma Pitaka:
-Dhamma-sangani, Vibhanga, Dhatu-katha, Puggala-pannatti, **Katha-vatthu**, Yamaka, Patthana
-> 📌 **Katha-vatthu** was added at the **Third Council** by **Moggaliputta Tissa**
-
-> 🎯 **PYQ Alert (UPSC 1996):** Therigatha is NOT part of Jaina literature — **TRUE** ✅ It is part of **Khuddaka Nikaya** of Buddhist Sutta Pitaka — songs of elder Buddhist **nuns**
-
-> 🎯 **PYQ Alert (UPSC 1998):** The concept of Eight-fold path forms the theme of — **Answer: Dharma-Chakra Pravartna Sutta** ✅
-
----
-
-## 27. LIFE OF THE BUDDHA
-
-| Fact | Detail |
-|------|--------|
-| **Names** | Siddhartha → Buddha; also **Sakyamuni / Tathagata** |
-| **Born** | **563 BCE**, Vaishakha Poornima, at **Lumbini** (near Kapilavastu, Nepal) |
-| **Clan/Father** | Republican **Sakya clan**; father **Suddhodana** (chief of Kapilavastu, Kosala kingdom) |
-| **Mother** | **Mahamaya** (died 7 days after birth); raised by step-mother **Gautami** |
-| **Prophecy** | Brahmanas saw **32 marks of a Mahapurusha** → either world conqueror or world renouncer |
-| **Marriage** | At 16 to **Yashodhara**; son **Rahula** |
-| **Four Sights** | Old man, sick man, corpse, ascetic → triggered renunciation |
-| **Great Renunciation** | At **29** — left with charioteer **Channa** and horse **Kanthaka** (*Mahabhinishkramana*) |
-| **Teachers** | **Alara Kalama**, then **Uddaka Ramaputta** — unconvinced by both |
-| **5 Ascetic Companions** | Kondanna, Bhaddiya, Vappa, Mahanama, Assaji |
-| **Pre-enlightenment** | Milk-rice from village girl **Sujata**; kusa grass mat; sat under **Peepal tree** facing east; defeated **Mara** (Lord of Illusions) via earth-touching gesture |
-| **Enlightenment** | At **35**, at **Bodh Gaya/Uruvela** (Magadha, Bihar), on **Niranjana river** → the **Bodhi Tree** |
-| **First Sermon** | At **Sarnath** deer park, to his 5 companions = **Dhammachakka-Pavattana** ("turning the wheel of dharma"); they became Arhats |
-| **Death (Parinibbana)** | At **80**, at **Kusinara** (in the Mallas) |
-
-> 💡 **Memory tip — Ages**: Renounced at **29**, Enlightened at **35**, Died at **80**
-
-> 📌 **Bodhi Tree note**: Ashoka's queen **Tissarakkha** had it killed; later cut by **Pushyamitra Shunga** (2nd c. BCE) and **Shashanka** (600 CE) — each time replanted; still revered at Bodh Gaya
-
-> 🎯 **PYQ Alert (UPSC 2005):** Which was NOT a contemporary of the other three — Bimbisara, Gautam Buddha, **Milinda**, Prasenjit? — **Answer: Milinda** ✅ (Milinda/Menander was a Greek king of 2nd century BCE — much later)
-
-> 🎯 **PYQ Alert (UPSC 2015 & 2014):** Kingdoms associated with life of Buddha — **Answer: Avanti, Kosala and Magadha** ✅ (NOT Gandhara)
-
-### Buddha Represented in 5 Symbolic Forms (Early Art — No Idol Worship Initially)
-
-| Symbol | Event |
-|--------|-------|
-| **Lotus & Bull** | Birth |
-| **Horse** | Renunciation |
-| **Bodhi Tree** | Enlightenment (Mahabodhi) |
-| **Dhammachakra (wheel)** | First Sermon |
-| **Footprints** | Nirvana |
-
----
-
-## 28. DOCTRINES OF BUDDHISM
-
-### The Three Jewels (Triratna)
-1. **Buddha** — Founder/Teacher
-2. **Dhamma** — Teachings
-3. **Sangha** — Order of monks/nuns (torch-bearers of Dhamma)
-
-> 💡 **Memory tip — "BDS"**: Buddha, Dhamma, Sangha
-
-### Four Noble Truths (Ariya-Sachchani)
-
-| # | Sanskrit/Pali | Meaning |
-|---|--------------|---------|
-| 1 | **Dukkha** | Life has suffering (*sabbam dukkham*) — actual + potential pain |
-| 2 | **Samudaya** | There is a cause — **desire (Trishna)** is the root of suffering |
-| 3 | **Nirodha** | Suffering can end — by attaining Nirvana |
-| 4 | **Astangika-Marga** | There is a **path** to end suffering (the Eightfold Path) |
-
-### The Eightfold Path (Astangika-Marga)
-*("Right" = proper/whole/complete, not opposite of "wrong"; about "unlearning")*
-
-1. **Right Vision** (*Samma-Ditthi*) — correct understanding of reality
-2. **Right Thought** (*Samma-Sankappa*) — love and compassion
-3. **Right Speech** (*Samma-Vaca*) — truthful, non-harmful
-4. **Right Action** (*Samma-Kammanta*) — ethical, non-exploitative (→ Five Precepts)
-5. **Right Livelihood** (*Samma-Ajiva*) — non-exploitative living
-6. **Right Effort** (*Samma-Vayama*) — directing energy to creative/healing action
-7. **Right Mindfulness** (*Samma-Sati*) — self-awareness
-8. **Right Concentration** (*Samma-Samadhi*) — meditation → Buddhahood
-
-> 🎯 **PYQ Alert (UPSC 1998):** Eight-fold path forms theme of — **Answer: Dharma-Chakra Pravartna Sutta** ✅
-
-### The Five Precepts (under Right Action — for monks AND laity)
-1. Do not commit violence (no killing of any being)
-2. Do not covet property of others
-3. Avoid sensual misconduct (laity: chastity)
-4. Do not lie (no slander/deceit)
-5. Do not use intoxicants
-
-> 📌 **Three extra precepts for monks/nuns**: no eating after midday; no dancing/music/perfumes/ornaments; no luxurious beds or handling gold/silver (money)
-
----
-
-## 29. NIRVANA / NIBBANA
-
-- **Etymology**: Pali *Nibbana* = "Ni" (not) + "Vana" (craving) → **extinction of desire/craving**
-- NOT physical death — the dying out of desire, attachment, greed, ignorance, hatred and ego
-- **Mahaparinirvana** = nirvana attained on death
-- Buddhism accepts transmigration and impermanence, but **rejects God and soul (atman)**
-- The soul is a "myth" in Buddhism
-
-> 🎯 **PYQ Alert (UPSC 2013):** Which best describes Nirvana in Buddhism? — **Answer: The extinction of the flame of desire** ✅ (NOT annihilation of self, NOT a state of bliss, NOT beyond comprehension)
-
----
-
-## 30. CORE PHILOSOPHICAL DOCTRINES
-
-### A. Pratityasamutpada (Dependent Origination)
-- Central Buddhist law of causation: **"this being, that arises"**
-- Nothing exists independently; all things arise from causes and conditions
-- Expressed as **chain of 12 links (Nidanas)**:
-
-| # | Nidana | Meaning |
-|---|--------|---------|
-| 1 | **Avidya** | Ignorance |
-| 2 | **Samskara** | Karmic formations |
-| 3 | **Vijnana** | Consciousness |
-| 4 | **Namarupa** | Name and form |
-| 5 | **Shadayatana** | Six sense bases |
-| 6 | **Sparsha** | Contact |
-| 7 | **Vedana** | Feeling |
-| 8 | **Trishna** | Craving |
-| 9 | **Upadana** | Clinging |
-| 10 | **Bhava** | Becoming |
-| 11 | **Jati** | Birth |
-| 12 | **Jaramarana** | Old age and death |
-
-> 💡 Breaking this chain (removing ignorance) ends the cycle of rebirth → Nirvana
-
-### B. Three Marks of Existence (Trilakshana / Tilakkhana)
-1. **Anicca** — impermanence (everything is transient)
-2. **Dukkha** — suffering/unsatisfactoriness
-3. **Anatta (Anatman)** — no permanent self/soul
-
-> 💡 **Memory tip — "A-D-A"**: Anicca, Dukkha, Anatta
-
-### C. Kshanikavada
-- Doctrine of **momentariness** — everything exists only for a moment, in constant flux
-
-### D. Anatmavada / Nairatmyavada
-- **Denial of a permanent soul** — key point separating Buddhism from Upanishads
-- Rebirth happens via a **stream of causation (Santana)**, not a transmigrating soul
-
-### E. Karma in Buddhism
-- **Intention (Cetana)** is what makes karma — *"It is intention that I call karma"* — said Buddha
-- Unlike Jainism where even **unintentional** harm creates karma
-- Karma = mental/intentional force (NOT physical particles as in Jainism)
-
----
-
-## 31. BUDDHIST ICONOGRAPHY — MUDRAS
-
-| Mudra | Gesture | Associated With |
-|-------|---------|----------------|
-| **Dhyana** | Both hands in lap | Meditation |
-| **Bhumisparsha** | Right hand touching the earth | Enlightenment (calling earth to witness) |
-| **Dharmachakra** | Both hands at chest, "wheel-turning" | First Sermon (Sarnath) |
-| **Abhaya** | Right palm raised outward | Protection/fearlessness |
-| **Varada** | Right palm down, facing out | Charity/boon-giving |
-| **Vitarka** | Thumb and forefinger joined | Teaching/discussion |
-
-> 🎯 **PYQ Alert (UPSC 2012):** Bhumisparsha Mudra symbolises — **Answer: Buddha's calling of the Earth to witness his purity and chastity despite temptations of Mara** ✅
-
----
-
-## 32. EIGHT GREAT HOLY PLACES (Ashtamahasthanas)
-
-| Place | Event |
-|-------|-------|
-| **Lumbini** | Birth |
-| **Bodh Gaya** | Enlightenment |
-| **Sarnath** | First Sermon |
-| **Kushinagar** | Mahaparinirvana (death) |
-| **Sravasti** | The "Twin Miracle" |
-| **Sankassa (Sankissa)** | Descent from heaven (Tushita) |
-| **Rajgir (Rajgriha)** | Subduing the elephant Nalagiri |
-| **Vaishali** | Monkey's offering of honey/announcement of coming death |
-
-> 💡 **Memory tip — "L-B-S-K"**: Lumbini (born), Bodh Gaya (enlightened), Sarnath (taught), Kushinagar (died) — the **4 most important**
-
----
-
-## 33. BUDDHIST COSMOLOGY — TEN REALMS OF BEING
-
-**Higher Realms:**
-1. **Buddha** — Fully enlightened; attained Nirvana; guides others
-2. **Bodhisattva** — Seeks enlightenment but delays to help all beings
-3. **Pratyeka Buddha** — Self-enlightened but does NOT teach others
-4. **Sravaka** — Disciple who attains enlightenment by following Buddha's teachings
-
-**Middle Realms:**
-5. **Heavenly beings (Devas)** — Live in pleasure due to good karma but NOT liberated
-6. **Humans** — Experience both joy and suffering; **best state for attaining Nirvana**
-7. **Asura** — Powerful but jealous beings driven by ego and conflict
-
-**Lower Realms:**
-8. **Beasts (Animals)** — Live in ignorance and instinct
-9. **Preta (Hungry ghosts)** — Tormented by endless desire
-10. **Hell beings** — Undergo intense suffering due to negative karma
-
-> 📌 Man sits at midpoint — can sink to hell or rise to Buddhahood
-> 📌 Non-violence (Ahimsa) stressed, but **vegetarianism is NOT required** — monks could eat meat
-
----
-
-## 34. BUDDHISM AND WOMEN
-
-- Initially Buddha was **reluctant** to admit women, fearing they'd corrupt the Sangha
-- Relented after **Ananda** interceded for **Maha Prajapati Gautami** (his step-mother) — first woman ordained
-- Admission conditional on **eight rules** subordinating nuns to monks:
-  - A nun, however senior, **salutes any monk**
-  - Nuns can't admonish monks (but monks can admonish nuns)
-  - Confession at joint meetings; two-year probation
-- Famous Bhikkhunis: **Dhammadinna, Sumangala, Mathika, Vasanti, Sumedha, Khema, Utpalavarna**
-- Former courtesans gained respect: **Amrapali** (Vaishali), **Padmavati** (Ujjain), **Arthakasi** (Kasi)
-
-> 📌 Buddha reportedly said admitting women would shorten the faith from **1000 → 500 years**
-
-> 🎯 **PYQ Alert (Practice Q):** Women were NOT admitted in Buddhist Sanghas — **FALSE** ❌ Women WERE admitted as bhikkhunis
-
----
-
-## 35. BUDDHISM VS BRAHMANISM
-
-- Buddhism judged **varna by action, not birth**
-- In Anguttara Nikaya, one who joins the Sangha becomes **"vevanniyanti"** (without varna)
-- Sangha drew from ALL castes:
-  - **Upali** (barber), **Chunda** (blacksmith)
-  - Brahmana monks: Mahakassapa, Sariputta, Mahamoggallana
-  - Kshatriya monks: the Buddha himself, Ananda, Aniruddha
-- **Mahakassapa** (a Brahmana) presided over the **First Council**
-- But Buddhism did NOT abolish class — barred **debtors, slaves, soldiers** (without leave)
-
----
-
-## 36. SPREAD AND POPULARITY OF BUDDHISM
-
-### Why it Spread:
-- More **liberal and democratic** — attacked varna, admitted all castes and women
-- **Buddha's personality** + reasoned doctrine (wit, calm, logic)
-- Teachings in **Pali** (people's language), NOT Sanskrit
-- **Royal patronage** — Magadha, Kosala, Kaushambi, Gana-Sanghas
-- Practical solutions to social/economic ills of new urban economy
-
-### Ashoka's Missionaries (High-Yield MCQ)
-
-| Missionary | Destination |
-|-----------|------------|
-| **Mahendra + Sanghamitra** (son + daughter) | Sri Lanka |
-| **Sona + Uttara** | Suvarnabhumi (Myanmar/Thailand) |
-| **Mahadev** | Mysore |
-| **Dharamarakshit** | Himalayas |
-| **Maharakshit** | Land of the Greeks |
-
-### Spread to China:
-- **1st c. CE** — Dharamrakshit and Kashyap Matanga went to China; translated Buddhist texts
-- **Kumarajiva** went to China in **401 CE** (became head of Buddhist scholars there)
-- Chinese pilgrims: **Fa-Hien** and **Huen Tsang** visited India and carried texts back
-
----
-
-## 37. DECLINE OF BUDDHISM (from early 12th century CE)
-
-| Cause | Explanation |
-|-------|-------------|
-| **(a) Internal degeneration** | Succumbed to rituals and dogma it once denounced; monks abandoned Pali for Sanskrit |
-| **(b) Corruption** | From 1st c. CE, took up large-scale idol worship + donations → corruption of ascetic life; Mahayana even made Buddha a god |
-| **(c) Persecution** | **Pushyamitra Shunga**, Huna king **Mihirakula**, **Shashanka** of Gauda; Turkish invaders sacked rich monasteries → loss of royal patronage |
-| **(d) Revival of Brahmanism** | Vaishnavism (Bhakti, direct God-devotee link, patronised by Guptas) drew masses away |
-
-> 💡 **Memory tip — Persecutors "P-M-S"**: Pushyamitra Shunga, Mihirakula (Huna), Shashanka
-
----
-
-## 38. BUDDHIST COUNCILS
-
-| Council | Year | Place | Ruler | President | Outcome |
-|---------|------|-------|-------|-----------|---------|
-| **1st** | 483 BCE | **Rajgriha** (Saptaparni cave) | Ajatashatru | **Mahakassapa** | Teachings split into 3 baskets; Upali recited Vinaya, Ananda recited Sutta |
-| **2nd** | 383 BCE | **Vaishali** | Kalasoka | **Sabbakami** | Dispute over monastic practice → split into **Sthaviravadins vs Mahasanghikas** → later Theravada vs Mahayana |
-| **3rd** | 250 BCE | **Pataliputra** (Ashokarama monastery) | Ashoka | **Moggaliputta Tissa** | Purged factions; origin of Theravada; Tripitaka coded in Pali; **Kathavatthu** compiled; missionaries sent abroad |
-| **4th** | 1st c. CE | **Kundalavana, Kashmir** | Kanishka | **Vasumitra** | Split into **Mahayana vs Hinayana**; **Mahavibhasha** compiled; proceedings in Sanskrit; **Asvaghosha** was vice-president |
-
-> 💡 **Memory tip — Rulers "A-K-A-K"**: Ajatashatru, Kalasoka, Ashoka, Kanishka (1st → 4th)
-> 💡 **Memory tip — Venue "R-V-P-K"**: Rajgriha, Vaishali, Pataliputra, Kashmir
-
-> 🎯 **PYQ Alert (Practice Q):** 1st Buddhist council held during reign of Ashoka — **FALSE** ❌ It was held during **Ajatashatru's** reign
-
-> 🎯 **PYQ Alert (UPSC 2001):** Which presided over Buddhist council during Kanishka's reign at Kashmir? — **Answer: Vasumitra** ✅
-
-> 📌 Note: Theravada also held a **separate 4th council** in 1st c. BCE at **Aloka Lena, Sri Lanka** under **Vattagamani**
-
----
-
-## 39. THREE SCHOOLS OF BUDDHISM
-
-| Feature | Hinayana (Theravada) | Mahayana | Vajrayana |
-|---------|---------------------|----------|-----------|
-| **Meaning** | "Lesser Path"; Theravada = "Doctrine of the Elders" | "Greater Path" | "Vehicle of the Thunderbolt"; also Mantrayana/Tantrayana |
-| **Nature** | Orthodox; truer to Buddha; **original school** | Heterodox; later development | Esoteric extension; appeared E-India 8th c. CE |
-| **Language** | Pali | Sanskrit | Sanskrit + symbolic "Twilight Language" (*samdhya-bhasa*) |
-| **View of Buddha** | Buddha = **human**; no idol worship | Buddha = **god**; idol worship | Quick path via magical power (Vajra) |
-| **Goal** | Individual salvation; aim = **Nirvana** | Universal liberation; aim = spiritual upliftment | Mantras, mandalas, central guru/lama |
-| **Ideal** | **Arhat** (individual liberation) | **Bodhisattva** (universal liberation) | — |
-| **Today** | Sri Lanka, Myanmar, Thailand, SE Asia | Japan, China, E-Asia | Tibet, Nepal, Bhutan, Mongolia |
-| **Royal Patron** | **Ashoka** | **Kanishka**, later Harsha | — |
-
-> 🎯 **PYQ Alert (UPSC 2016):** Bodhisattva concept is central to Hinayana — **FALSE** ❌ Central to **Mahayana**. Bodhisattva delays nirvana to help all beings ✅
-
-> 🎯 **PYQ Alert (UPSC 2020):** Sthaviravadins belong to Mahayana Buddhism — **FALSE** ❌ They belong to **Hinayana** Buddhism ✅
-
-> 🎯 **PYQ Alert (Practice Q):** Mahayana Buddhism believes in idol worship while Hinayana does not — **TRUE** ✅
-
-### Mahayana Schools:
-
-| School | Founder | Doctrine |
-|--------|---------|---------|
-| **Madhyamika / Sunyavada** | **Nagarjuna** | Doctrine of **Sunyata** (emptiness): reality is void of independent existence |
-| **Yogachara / Vijnanavada** | **Asanga & Vasubandhu** | "Consciousness-only"/idealism: only mind/consciousness (vijnana) is ultimately real |
-
-### Trikaya Doctrine (Three Bodies of the Buddha):
-1. **Dharmakaya** — the body of truth/essence (ultimate reality)
-2. **Sambhogakaya** — the body of bliss/enjoyment (celestial form)
-3. **Nirmanakaya** — the body of manifestation (the historical Buddha)
-
-> 💡 **Memory tip — "D-S-N"**: Dharmakaya, Sambhogakaya, Nirmanakaya
-
----
-
-## 40. IMPORTANT BUDDHIST WRITERS
-
-| Writer | Note |
-|--------|------|
-| **Asvaghosha** | Wrote **Buddhacharita** (Sanskrit); contemporary of Kanishka; poet/dramatist/musician |
-| **Nagarjuna** | Founder of **Madhyamaka** school (Mahayana); friend of Satavahana king Gautamiputra |
-| **Asanga & Vasubandhu** | Brothers, 4th c. CE Punjab; Asanga → **Yogachara/Vijnanavada** school; Vasubandhu wrote **Abhidharmakosa** (encyclopedia of Buddhism) |
-| **Buddhaghosa** | 5th c. Pali scholar; wrote **Visuddhimagga** ("Path of Purification") |
-| **Dinnaga** | Founder of **Buddhist logic** (5th c.) |
-| **Dharmakirti** | 7th c. Buddhist logician and dialectician |
-
-> 🎯 **PYQ Alert (UPSC 2022):** Aryadeva was a Jaina scholar — **FALSE** ❌ Aryadeva was a **Buddhist** scholar (disciple of Nagarjuna)
-
----
-
-## 41. EIGHT GREAT BODHISATTVAS
-
-| Bodhisattva | Role | Identifying Mark |
-|------------|------|-----------------|
-| **Manjushri** | Wisdom and insight | Flaming sword (cuts ignorance) + Prajnaparamita sutra; on a lion |
-| **Avalokiteshvara** (Padmapani/Lokesvara) | Infinite compassion; manifestation of Amitabha | White, holds a lotus |
-| **Vajrapani** | Power and forceful energy | Blue, holds a Vajra; fierce, fire-wreathed |
-| **Maitreya** | **The Future Buddha** — will restore the Dhamma | Orange/yellow, seated waiting; khata scarf |
-| **Kshitigarbha** | Saves souls (incl. children, those in hell) | Monk's robes; staff + cintamani jewel |
-| **Akashagarbha** | Purifies transgressions | Blue/green skin; carries a sword |
-| **Samantabhadra** | "Universal Worthy" — fundamental goodness | Rides a **six-tusked elephant** (6 tusks = 6 Paramitas) |
-| **Sarvanivarana-Vishkambhin** | Purifies wrong doings on the path | Deep blue, holds a wheel of jewels |
-
-> 📌 **Three Family Protectors** (Buddha's trinity): **Manjushri** (wisdom) + **Avalokiteshvara** (compassion) + **Vajrapani** (power)
-
-> 🎯 **PYQ Alert (UPSC 2018):** Who among the following is future Buddha? — **Answer: Maitreya** ✅
-
----
-
-## 42. STUPAS AND ARCHITECTURE
-
-### What is a Stupa?
-- Hemispherical burial mounds holding relics/ashes; pilgrimage and meditation sites
-- Common since Vedic times but raised to cult worship under **Ashoka**
-- **9 original stupas** after Buddha's death (8 over relics + 1 over relic-vessel)
-
-### Parts of a Stupa (top to bottom):
-**Chhatra** (umbrella) → **Harmika** (square railing) → **Anda** (hemispherical mound) → **Medhi** (cylindrical drum) → **Torana** (entrance gate)
-
-> 💡 **Memory tip — "CHAD"**: Chhatra, Harmika, Anda, Drum
-
-> 🎯 **PYQ Alert (UPSC 2013):** Chaitya vs Vihara — **Chaitya = place of worship** (prayer hall with stupa inside); **Vihara = dwelling place of monks** (monastery) ✅
-
-### Types of Stupas:
-
-| Type | Purpose |
-|------|---------|
-| **Relic Stupa** | Holds relics/remains of Buddha or disciples |
-| **Object Stupa** | Holds objects (begging bowl, robe) or scriptures |
-| **Commemorative Stupa** | Marks events in lives of Buddha or disciples |
-| **Symbolic Stupa** | Symbolises Buddhist theology (e.g. Borobudur) |
-| **Votive Stupa** | From 7th c. CE; small terracotta miniatures as offerings |
-
-### Important Stupas:
-
-| Stupa | Key Points |
-|-------|-----------|
-| **Sanchi (MP)** | Built 3rd c. BCE by Ashoka; 4 gateways (southern first); UNESCO site since 1989 |
-| **Dhamek, Sarnath (UP)** | Commissioned by Ashoka, 249 BCE at Rishipattana — site of first sermon; rebuilt 500 CE |
-| **Amaravati (AP)** | Built in phases, 3rd c. BCE – ~250 CE; also called **Dhanyakataka**; now damaged |
-| **Bharhut (MP)** | Erected by Ashoka, later adopted by Shungas; reliefs donated by lay people, monks and nuns |
-| **Piprahwa (UP)** | Massive stupa + monasteries; site of Buddha's ashes handed to the Sakya clan |
-| **Nagarjunakonda (AP)** | Major site west of Amaravati; Mahayana Buddhist + Hindu remains |
-| **Sonari (MP)** | Sanchi-like complex — 2 major + 5 minor stupas |
-
-> 🎯 **PYQ Alert (UPSC 2023):** Dhanyakataka which flourished as prominent Buddhist centre under Mahasanghikas, located in — **Answer: Andhra** ✅ (modern Amaravati, AP)
-
-> 📌 **Cave Architecture:** Buddhist rock-cut caves — **Chaitya** (prayer/worship hall, with stupa inside) and **Vihara** (residential monastery)
-> Famous sites: **Karle** (largest chaitya hall), Bhaja, Bedsa, Nasik, Kanheri, Junnar, **Ajanta** (also famous for murals/paintings), **Ellora**, **Bagh caves** (MP)
-
-> 🎯 **PYQ Alert (UPSC 2017):** Painting of Bodhisattva Padmapani is one of the most famous paintings at — **Answer: Ajanta** ✅
-
----
-
-## 43. KEY TERMS GLOSSARY — BUDDHISM
-
-| Term | Meaning | Easy Explanation |
-|------|---------|-----------------|
-| **Chaityas** | Prayer halls | Hall of worship with stupa at far end; NOT monks' residence |
-| **Viharas** | Monasteries | Residential quarters for monks; NOT worship halls |
-| **Pravrajya** | "Going forth" | Becoming a novice — head shaved, ochre robes given |
-| **Upasampada** | Ordination ceremony | Novice → full member of monastic community |
-| **Uposatha** | Holy ceremony | Held on full moon and new moon days |
-| **Parajika** | "Defeat" | 4 gravest offences → expulsion from Sangha (sex, theft, killing, false claim of spiritual attainment) |
-| **Pavarana** | End of rainy season ceremony | Held on Aashvin full moon; each monk atones for offences committed in rainy season |
-| **Upasakas/Upasikas** | Lay male/female followers | Take refuge in Buddha-Dhamma-Sangha; no monastic vows |
-| **Bodhisattva** | Enlightened being | Delays own salvation to help all others attain liberation |
-| **Bhikkhu/Bhikkhuni** | Monk/Nun | Members of the Buddhist Sangha |
-| **Theragatha/Therigatha** | Songs of elder monks/nuns | Part of Khuddaka Nikaya; Therigatha = nuns' songs (Buddhist, NOT Jaina) |
-| **Shramana (Samana)** | One who strives | One who strives to realise truth; non-Vedic ascetics |
-| **Paribbajaka (Parivrajaka)** | Wanderer | Wandering ascetics |
-| **Pradakshina** | Circumambulation | Ritual walking around a Stupa clockwise |
-| **Torana** | Entrance gate | Gateway of a Stupa |
-| **Vassa** | Rainy season retreat | Period when monks stay in one place during monsoon |
-| **Sarvastivadin** | Theravada school | "Everything exists in all three phases of time" |
-| **Sautrantika** | Buddhist school | Accepts only Sutta + Vinaya Pitakas as valid |
-| **Sammitiya** | Buddhist school | An early Buddhist school |
-| **Patimokka** | Monastic code | 227 rules for monks; recited fortnightly at Uposatha |
-| **Sunyata** | Emptiness | Central concept of Madhyamika/Mahayana — reality is void of independent existence |
-| **Anatman/Anatta** | No-soul | Buddhism's rejection of permanent self — distinguishes it from Hinduism |
-
----
-
 # PART C — COMBINED COMPARISON AND SUMMARY
 
 ---
 
-## 44. BUDDHISM vs JAINISM — DETAILED COMPARISON
+## 43. BUDDHISM vs JAINISM — DETAILED COMPARISON
 
 ### A. Similarities
 
@@ -1618,7 +1618,7 @@ Dhamma-sangani, Vibhanga, Dhatu-katha, Puggala-pannatti, **Katha-vatthu**, Yamak
 
 ---
 
-## 45. TEXTS COMPARISON — BUDDHISM vs JAINISM
+## 44. TEXTS COMPARISON — BUDDHISM vs JAINISM
 
 | Aspect | Buddhism | Jainism |
 |--------|---------|---------|
@@ -1639,7 +1639,7 @@ Dhamma-sangani, Vibhanga, Dhatu-katha, Puggala-pannatti, **Katha-vatthu**, Yamak
 
 ---
 
-## 46. SECTS COMPARISON — BUDDHISM vs JAINISM
+## 45. SECTS COMPARISON — BUDDHISM vs JAINISM
 
 | Aspect | Buddhism | Jainism |
 |--------|---------|---------|
@@ -1654,7 +1654,7 @@ Dhamma-sangani, Vibhanga, Dhatu-katha, Puggala-pannatti, **Katha-vatthu**, Yamak
 
 ---
 
-## 47. PROBABLE QUESTIONS FOR APPSC GROUP-I — BUDDHISM
+## 46. PROBABLE QUESTIONS FOR APPSC GROUP-I — BUDDHISM
 
 ### PRELIMS — High Probability Topics:
 
